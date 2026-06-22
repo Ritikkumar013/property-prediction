@@ -1,0 +1,27 @@
+{
+  "name": "property-predictor-api",
+  "version": "1.0.0",
+  "description": "AI-Powered Property Price Predictor API for Pune corridors",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "prisma:generate": "npx prisma generate",
+    "prisma:push": "npx prisma db push",
+    "prisma:migrate": "npx prisma migrate dev",
+    "postinstall": "npx prisma generate"
+  },
+  "keywords": ["property", "price-prediction", "pune", "real-estate"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.9.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prisma": "^6.9.0"
+  }
+}

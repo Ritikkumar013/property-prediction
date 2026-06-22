@@ -1,0 +1,1682 @@
+[
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 28.95
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 30.76
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 33.58
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 45.71
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 48.1
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 54.18
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 60.77
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 66.22
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 69.65
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 74.76
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 85.36
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 90.96
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 101.6
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 107.51
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 125.48
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 152.05
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 158.38
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 184.3
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 204.52
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 220.28
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 243.06
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 268.04
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 279.68
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 1,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 301.92
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 44.11
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 46.2
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 48.88
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 60.87
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 63.54
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 69.47
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 72.9
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 78.64
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 81.91
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 86.89
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 97.77
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 103.23
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 113.73
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 119.92
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 137.74
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 164.18
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 170.79
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 196.57
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 216.65
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 232.69
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 255.33
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 280.17
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 292.09
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 2,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 314.19
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 66.83
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 70.04
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 80.55
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 82.63
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 86.23
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 100.13
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 97.33
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 103.54
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 114.79
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 109.4
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 121.2
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 134.79
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 137.65
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 144.77
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 170.47
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 188.73
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 196.27
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 229.93
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 241.21
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 258.18
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 288.63
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 304.77
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 317.62
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 3,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 347.52
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 106.33
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 104.32
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 114.36
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 121.66
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 120.04
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 133.19
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 136.3
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 137.29
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 147.79
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 147.65
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 154.94
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 167.78
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 173.05
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 175.65
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 202.0
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 227.86
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 235.04
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 270.58
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 277.3
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 293.9
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 326.24
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 340.86
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 353.34
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 4,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 385.13
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 149.99
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 149.61
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 158.22
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 165.05
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 165.06
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 176.77
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 179.68
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 182.3
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 191.36
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 190.66
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 198.87
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 210.28
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 216.98
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 220.51
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 244.36
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 259.35
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 267.45
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 298.61
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 315.29
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 332.87
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 374.6
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 364.25
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 385.49
+  },
+  {
+    "corridor": "dehu-solapur",
+    "bhk": 5,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 433.18
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 15.7
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 16.6
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 17.72
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 26.59
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 27.31
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 29.12
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 35.87
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 37.55
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 40.03
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 43.48
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 49.14
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 50.49
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 62.38
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 64.58
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 75.58
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 84.62
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 91.44
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 103.57
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 132.13
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 136.32
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 142.4
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 159.49
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 165.91
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 1,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 180.76
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 22.61
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 24.38
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 26.36
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 33.5
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 35.09
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 37.76
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 41.32
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 43.87
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 47.21
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 48.93
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 55.46
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 57.66
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 67.83
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 70.9
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 82.76
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 90.07
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 97.76
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 110.74
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 137.58
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 142.64
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 149.57
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 164.95
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 172.23
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 2,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 187.94
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 32.61
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 34.67
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 36.46
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 43.02
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 44.97
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 47.59
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 52.87
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 55.78
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 59.07
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 59.87
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 66.77
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 69.07
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 78.81
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 82.24
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 93.96
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 101.79
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 109.84
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 122.68
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 149.51
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 154.92
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 161.65
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 176.91
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 184.56
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 3,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 200.05
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 58.9
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 55.36
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 59.36
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 68.84
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 65.19
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 69.74
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 78.92
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 76.23
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 81.45
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 89.61
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 91.62
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 95.85
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 106.26
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 104.81
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 118.89
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 132.39
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 139.7
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 157.11
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 172.4
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 177.07
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 188.36
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 199.8
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 206.71
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 4,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 226.77
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 500,
+    "furnishing": "unfurnished",
+    "predicted_price": 81.43
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 82.68
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 500,
+    "furnishing": "furnished",
+    "predicted_price": 78.51
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 800,
+    "furnishing": "unfurnished",
+    "predicted_price": 91.1
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 800,
+    "furnishing": "semi-furnished",
+    "predicted_price": 92.23
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 800,
+    "furnishing": "furnished",
+    "predicted_price": 88.61
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1000,
+    "furnishing": "unfurnished",
+    "predicted_price": 101.17
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 103.27
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1000,
+    "furnishing": "furnished",
+    "predicted_price": 100.31
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1200,
+    "furnishing": "unfurnished",
+    "predicted_price": 111.49
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1200,
+    "furnishing": "semi-furnished",
+    "predicted_price": 117.57
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1200,
+    "furnishing": "furnished",
+    "predicted_price": 113.63
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1500,
+    "furnishing": "unfurnished",
+    "predicted_price": 130.28
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 132.9
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 1500,
+    "furnishing": "furnished",
+    "predicted_price": 136.18
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 2000,
+    "furnishing": "unfurnished",
+    "predicted_price": 149.79
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 2000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 161.17
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 2000,
+    "furnishing": "furnished",
+    "predicted_price": 164.23
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 2500,
+    "furnishing": "unfurnished",
+    "predicted_price": 177.22
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 2500,
+    "furnishing": "semi-furnished",
+    "predicted_price": 185.09
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 2500,
+    "furnishing": "furnished",
+    "predicted_price": 197.39
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 3000,
+    "furnishing": "unfurnished",
+    "predicted_price": 214.56
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 3000,
+    "furnishing": "semi-furnished",
+    "predicted_price": 226.93
+  },
+  {
+    "corridor": "kolhapur-nashik",
+    "bhk": 5,
+    "sqft": 3000,
+    "furnishing": "furnished",
+    "predicted_price": 249.77
+  }
+]

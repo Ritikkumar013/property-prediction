@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Property {
+  id             Int      @id @default(autoincrement())
+  corridor       String
+  bhk            Int
+  sqft           Float
+  bathrooms      Int
+  floor          Int
+  totalFloors    Int      @default(10)
+  propertyAge    Int      @default(0)
+  furnishing     String   @default("unfurnished")
+  parking        Int      @default(0)
+  amenities      Json?
+  predictedPrice Float?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  @@index([corridor])
+}

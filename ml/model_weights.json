@@ -1,0 +1,79 @@
+{
+  "model_info": {
+    "algorithm": "XGBoost (XGBRegressor)",
+    "n_estimators": 200,
+    "max_depth": 6,
+    "learning_rate": 0.1,
+    "training_samples": 8000,
+    "test_samples": 2000,
+    "mae": 16.3052,
+    "r2_score": 0.9321
+  },
+  "feature_columns": [
+    "corridor_enc",
+    "bhk",
+    "sqft",
+    "bathrooms",
+    "floor",
+    "total_floors",
+    "property_age",
+    "furnishing_enc",
+    "parking",
+    "amenity_count",
+    "has_gym",
+    "has_pool",
+    "has_clubhouse",
+    "has_garden",
+    "has_playground",
+    "has_security",
+    "has_power_backup",
+    "has_lift",
+    "has_parking",
+    "has_cctv",
+    "floor_ratio"
+  ],
+  "feature_importance": {
+    "bhk": 0.486463,
+    "corridor_enc": 0.167656,
+    "sqft": 0.15169,
+    "bathrooms": 0.077442,
+    "property_age": 0.018959,
+    "furnishing_enc": 0.013364,
+    "has_pool": 0.008381,
+    "amenity_count": 0.007521,
+    "has_clubhouse": 0.007107,
+    "has_garden": 0.005967,
+    "has_lift": 0.005965,
+    "floor_ratio": 0.005811,
+    "has_parking": 0.005764,
+    "has_gym": 0.005645,
+    "has_security": 0.005254,
+    "total_floors": 0.004991,
+    "floor": 0.004806,
+    "has_cctv": 0.004475,
+    "has_power_backup": 0.004406,
+    "parking": 0.004275,
+    "has_playground": 0.004057
+  },
+  "encodings": {
+    "corridor": {
+      "dehu-solapur": 0,
+      "kolhapur-nashik": 1
+    },
+    "furnishing": {
+      "furnished": 0,
+      "semi-furnished": 1,
+      "unfurnished": 2
+    }
+  },
+  "training_stats": {
+    "price_mean": 113.8374,
+    "price_std": 103.823,
+    "price_min": 7.41,
+    "price_max": 852.63
+  },
+  "corridor_base_prices": {
+    "dehu-solapur": 5800,
+    "kolhapur-nashik": 4200
+  }
+}
